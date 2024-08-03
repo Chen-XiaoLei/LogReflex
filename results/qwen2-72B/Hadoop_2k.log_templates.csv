@@ -1,0 +1,106 @@
+EventId,EventTemplate,Occurrences
+0,Created MRAppMaster for application <*>,1
+1,Executing with tokens:,1
+2,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>)",1
+3,Using mapred newApiCommitter.,1
+4,OutputCommitter set in config <*>,1
+5,OutputCommitter is <*>,1
+6,Registering class <*> for class <*>,9
+7,Default file system [hdfs://<*>,3
+8,Emitting job history data to the timeline server is not enabled,1
+9,loaded properties from <*>,1
+10,Scheduled snapshot period at <*> second(s).,1
+11,MRAppMaster metrics system started,1
+12,Adding job token for job_<*> to jobTokenSecretManager,1
+13,Not uberizing job_<*> because: not enabled; too many maps; too much input;,1
+14,Input size for job <*> = <*>. Number of splits = <*>,1
+15,Number of reduces for job <*> = <*>,1
+16,job_<*>Job Transitioned from NEW to INITED,1
+17,"MRAppMaster launching normal, non-uberized, multi-container job job_<*>.",1
+18,Using callQueue class <*>,2
+19,Starting Socket Reader #<*> for port <*>,2
+20,Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server,1
+21,Instantiated MRClientService at <*>,1
+22,IPC Server Responder: starting,2
+23,IPC Server listener on <*>: starting,2
+24,Logging to org.slf4j.impl.Log4jLoggerAdapter(<*>) via org.mortbay.log.Slf4jLog,1
+25,Http request log for http.requests.mapreduce is not defined,1
+26,Added global filter 'safety' (class=<*>),1
+27,Added filter <*> (class=<*>) to context mapreduce,1
+28,Added filter <*> (class=<*>) to context static,1
+29,adding path spec: /<*>,2
+30,Jetty bound to port <*>,1
+31,jetty-6.1.26,1
+32,Extract jar:<*>!/webapps/mapreduce to <*>,1
+33,Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*>,1
+34,Web app /mapreduce started at <*>,1
+35,Registered webapp guice modules,1
+36,JOB_CREATE job_<*>,1
+37,nodeBlacklistingEnabled:<*>,1
+38,maxTaskFailuresPerNode is <*>,1
+39,blacklistDisablePercent is <*>,1
+40,Connecting to ResourceManager at <*>,1
+41,"maxContainerCapability: <memory:<*>, vCores:<*>>",1
+42,queue: default,1
+43,Upper limit on the thread pool size is <*>,1
+44,yarn.client.max-cached-nodemanagers-proxies : <*>,1
+45,job_<*>Job Transitioned from INITED to SETUP,1
+46,Processing the event EventType: <*>,3
+47,job_<*>Job Transitioned from SETUP to RUNNING,1
+48,Resolved <*> to <*>,39
+49,task_<*> Task Transitioned from NEW to SCHEDULED,11
+50,"mapResourceRequest:<memory:<*>, vCores:<*>>",1
+51,"Event Writer setup for JobId: job_<*>, File: hdfs://<*>",1
+52,"reduceResourceRequest:<memory:<*>, vCores:<*>>",1
+53,Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,5
+54,getResources() for application_<*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<*> knownNMs=<*>,12
+55,"Recalculating schedule, headroom=<memory:<*>, vCores:<*>",131
+56,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>,130
+57,Got allocated containers <*>,10
+58,Assigned container container_<*> to attempt_<*>,10
+59,After Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>,12
+60,The job-jar file on the remote FS is hdfs://<*>,1
+61,The job-conf file on the remote FS is <*>,1
+62,Adding <*> tokens and <*> secret keys for NM use for launching container,1
+63,Size of <*> is <*>,1
+64,Putting shuffle token in serviceData,1
+65,Processing the event EventType: <*> for container <*> taskAttempt <*>,13
+66,Launching <*>,10
+67,Opening proxy : <*>,13
+68,Shuffle port returned by ContainerManager for <*> : <*>,10
+69,TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>],10
+70,ATTEMPT_START task_<*>,10
+71,task_<*> Task Transitioned from SCHEDULED to RUNNING,10
+72,Auth successful for <*> (auth:SIMPLE),10
+73,JVM with ID : <*> asked for a task,10
+74,JVM with ID: <*> given task: <*>,10
+75,Progress of TaskAttempt <*> is : <*>,289
+76,"Cannot assign container Container: [ContainerId: <*>, NodeId: <*>, NodeHttpAddress: <*>, Resource: <memory:<*>, vCores:<*>>, Priority: <*>, Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either container memory less than required <memory:<*>, vCores:<*>> or no pending map tasks - maps.isEmpty=true",1
+77,Received completed container container_<*>,2
+78,Container complete event for unknown container id container_<*>,1
+79,Done acknowledgement from <*>,1
+80,KILLING <*>,3
+81,Task succeeded with attempt <*>,1
+82,<*> Task Transitioned from RUNNING to SUCCEEDED,1
+83,Num completed Tasks: <*>,1
+84,Reduce slow start threshold reached. Scheduling reduces.,1
+85,All maps assigned. Ramping up all remaining reduces:<*>,1
+86,DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_<*>,1
+87,We launched <*> speculations. Sleeping <*> milliseconds.,1
+88,Scheduling a redundant attempt for task task_<*>,1
+89,Diagnostics report from <*>: Container killed by the ApplicationMaster.,1
+90,Address change detected. Old: msra-sa-<*> New: msra-sa-<*>,476
+91,Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...,326
+92,"Slow ReadProcessor read fields took <*> (threshold=<*>); ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*>, targets: [<*>, <*>]",1
+93,DFSOutputStream ResponseProcessor exception for block <*>:blk_<*>,1
+94,"Error Recovery for block BP-<*>:blk_<*> in pipeline <*>, <*>: bad datanode <*>",1
+95,DataStreamer Exception,1
+96,ERROR IN CONTACTING RM.,147
+97,"Retrying connect to server: <*>. Already tried <*> time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=<*>, sleepTime=<*> MILLISECONDS)",146
+98,<*> attempt_<*> <*>: java.net.NoRouteToHostException: No Route to Host from <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: <*>,6
+99,<*> TaskAttempt Transitioned from <*> to <*>,42
+100,Task cleanup failed for attempt <*>,2
+101,Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.<*>,1
+102,"Thread Thread[eventHandlingThread,<*>,main] threw an Exception.",1
+103,<*> failures on node <*>.com,2
+104,Added <*> to list of failed maps,2
