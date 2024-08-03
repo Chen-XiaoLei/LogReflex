@@ -1,0 +1,77 @@
+{
+    "[instance: <*>] VM Started (Lifecycle Event)": {
+        "[instance: <*>] VM Paused (Lifecycle Event)": "No",
+        "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.": "No.",
+        "Creating event network-vif-plugged:<*> for instance <*>": "No",
+        "[instance: <*>] VM Resumed (Lifecycle Event)": "No",
+        "[instance: <*>] VM Stopped (Lifecycle Event)": "No"
+    },
+    "image <*> at (<*>): checking": {
+        "image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage": "No"
+    },
+    "<*> \"GET <*> HTTP/1.1\" status: <*> len: <*> time: <*>": {
+        "<*> \"POST <*> HTTP/1.1\" status: <*> len: <*> time: <*>": "No"
+    },
+    "Creating event network-vif-plugged:<*> for instance <*>": {
+        "[instance: <*>] Instance spawned successfully.": "No",
+        "Auditing locally available compute resources for node <*>": "No",
+        "Compute_service record updated for <*>": "No",
+        "HTTP exception thrown: No instances found for any event": "No",
+        "[instance: <*>] Creating image": "No"
+    },
+    "[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.": {
+        "[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.": "No",
+        "[instance: <*>] Terminating instance": "No"
+    },
+    "[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.": {
+        "[instance: <*>] Took <*> seconds to build instance.": "No",
+        "[instance: <*>] Took <*> seconds to destroy the instance on the hypervisor.": "No",
+        "While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.": "No"
+    },
+    "<*> \"GET <*> HTTP<*>\" status: <*> len: <*> time: <*>": {
+        "<*> \"DELETE <*> HTTP/1.1\" status: <*> len: <*> time: <*>": "No"
+    },
+    "[instance: <*>] Instance spawned successfully.": {
+        "[instance: <*>] Instance destroyed successfully.": "No.",
+        "[instance: <*>] Deletion of <*> complete": "No",
+        "[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU": "No",
+        "[instance: <*>] Claim successful": "No"
+    },
+    "[instance: <*>] Terminating instance": {
+        "[instance: <*>] Deleting instance files /<*>": "No"
+    },
+    "[instance: <*>] Took <*> seconds to build instance.": {
+        "[instance: <*>] Took <*> seconds to deallocate network for instance.": "No.",
+        "[instance: <*>] disk limit not specified, defaulting to unlimited": "No"
+    },
+    "Active base files: <*>": {
+        "Unknown base file: <*>": "No",
+        "Removable base files: <*>": "No"
+    },
+    "Unknown base file: <*>": {
+        "Removing base or swap file: <*>": "No"
+    },
+    "[instance: <*>] Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU": {
+        "[instance: <*>] Total memory: <*> MB, used: <*> MB": "No"
+    },
+    "[instance: <*>] Total memory: <*> MB, used: <*> MB": {
+        "[instance: <*>] memory limit: <*> MB, free: <*> MB": "No",
+        "[instance: <*>] Total disk: <*> GB, used: <*> GB": "No",
+        "[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU": "No"
+    },
+    "[instance: <*>] disk limit not specified, defaulting to unlimited": {
+        "[instance: <*>] vcpu limit not specified, defaulting to unlimited": "No"
+    },
+    "HTTP exception thrown: No instances found for any event": {
+        "Successfully synced instances from host '<*>'.": "No"
+    },
+    "[instance: <*>] Took <*> seconds to deallocate network for instance.": {
+        "Running instance usage audit for host <*> from <*> to <*>. <*> instances.": "No"
+    },
+    "Removing base or swap file: <*>": {
+        "Base or swap file too young to remove: <*>": "No"
+    },
+    "Running instance usage audit for host <*> from <*> to <*>. <*> instances.": {
+        "The instance sync for host '<*>' did not match. Re-created its InstanceList.": "No"
+    }
+}

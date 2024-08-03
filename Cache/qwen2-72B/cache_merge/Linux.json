@@ -1,0 +1,163 @@
+{
+    "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>": {
+        "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>": "No",
+        "Kerberos authentication failed": "No",
+        "authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=<*>": "No"
+    },
+    "authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>": {
+        "session opened for user <*> by (uid=<*>)": "No"
+    },
+    "session opened for user <*> by (uid=<*>)": {
+        "session closed for user <*>": "No",
+        "session opened for user <*> by LOGIN(uid=<*>)": "Yes"
+    },
+    "connection from <*> (<*>) at <*>": {
+        "User unknown timed out after <*> seconds at <*>": "No",
+        "Received SNMP packet(s) from <*>": "No",
+        "Authentication failed from <*> (<*>): Permission denied in replay cache code": "No",
+        "Authentication failed from <*> (<*>): Software caused connection abort": "No",
+        "ACPI disabled because your bios is from <*> and too old": "No",
+        "PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>": "No"
+    },
+    "cupsd shutdown succeeded": {
+        "cupsd startup succeeded": "No"
+    },
+    "removing device node '<*>'": {
+        "creating device node '<*>'": "No",
+        "On node <*> totalpages: <*>": "No"
+    },
+    "check pass; user unknown": {
+        "Couldn't authenticate user": "No",
+        "Intel machine check architecture supported.": "No."
+    },
+    "ROOT LOGIN ON tty2": {
+        "ANONYMOUS FTP LOGIN FROM <*>, (anonymous)": "No."
+    },
+    "Couldn't authenticate user": {
+        "warning: can't get client address: Connection reset by peer": "No"
+    },
+    "cupsd startup succeeded": {
+        "syslogd startup succeeded": "No",
+        "klogd startup succeeded": "No",
+        "irqbalance startup succeeded": "No",
+        "portmap startup succeeded": "No",
+        "rpc.statd startup succeeded": "No"
+    },
+    "BIOS-e820: 00000000000f0000 - <*> (reserved)": {
+        "BIOS-e820: 0000000007eae000 - <*> (reserved)": "Yes"
+    },
+    "<*>MB HIGHMEM available.": {
+        "<*>MB LOWMEM available.": "No"
+    },
+    "DMA zone: <*> pages, LIFO batch:<*>": {
+        "Normal zone: <*> pages, LIFO batch:<*>": "No",
+        "HighMem zone: <*>, LIFO batch:<*>": "No"
+    },
+    "ALERT exited abnormally with [<*>]": {
+        "You can enable it with acpi=force": "No",
+        "Failure registering capabilities with the kernel": "No"
+    },
+    "Initializing CPU#<*>": {
+        "CPU <*> irqstacks, hard=<*> soft=<*>": "No",
+        "CPU: L1 I cache: <*>, L1 D cache: <*>": "No",
+        "Initializing random number generator: succeeded": "No",
+        "Initializing Cryptographic API": "No"
+    },
+    "session closed for user <*>": {
+        "Using tsc for high-res timesource": "No",
+        "isapnp: Scanning for PnP cards...": "No"
+    },
+    "BIOS-e820: <*> - <*> (reserved)": {
+        "Memory: <*>k/<*>k available (<*>k kernel code, <*>k reserved, <*>k data, <*>k init, <*>k highmem)": "No"
+    },
+    "SELinux: Initializing.": {
+        "SELinux: Starting in permissive mode": "No.",
+        "SELinux: Registering netfilter hooks": "No."
+    },
+    "Security Scaffold v1.0.0 initialized": {
+        "There is already a security framework initialized, register_security failed.": "No",
+        "Capability LSM initialized": "No",
+        "audit(<*>): initialized": "No"
+    },
+    "rpc.statd startup succeeded": {
+        "rpc.idmapd startup succeeded": "No",
+        "hcid startup succeeded": "No",
+        "Setting network parameters: succeeded": "No",
+        "sdpd startup succeeded": "No",
+        "Bringing up loopback interface: succeeded": "No."
+    },
+    "PID hash table entries: <*> (<*>: <*> bytes)": {
+        "Dentry cache hash table entries: <*> (order: <*>, <*> bytes)": "No"
+    },
+    "Dentry cache hash table entries: <*> (order: <*>, <*> bytes)": {
+        "Inode-cache hash table entries: <*> (order: <*>, <*> bytes)": "No"
+    },
+    "Inode-cache hash table entries: <*> (order: <*>, <*> bytes)": {
+        "Mount-cache hash table entries: <*> (order: <*>, <*> bytes)": "No",
+        "Dquot-cache hash table entries: <*> (order <*>, <*> bytes)": "No"
+    },
+    "CPU: L1 I cache: <*>, L1 D cache: <*>": {
+        "CPU: L2 cache: <*>": "No"
+    },
+    "Intel machine check architecture supported.": {
+        "Intel machine check reporting enabled on CPU#<*>.": "No."
+    },
+    "Intel machine check reporting enabled on CPU#<*>.": {
+        "CPU: Intel Pentium III (Coppermine) stepping <*>": "No"
+    },
+    "ACPI disabled because your bios is from <*> and too old": {
+        "Enabling fast FPU save and restore... done.": "No",
+        "audit: initializing netlink socket (disabled)": "No"
+    },
+    "Enabling fast FPU save and restore... done.": {
+        "Enabling unmasked SIMD FPU exception support... done.": "No."
+    },
+    "session opened for user <*> by <*>(uid=<*>)": {
+        "POSIX conformance testing by UNIFIX": "No."
+    },
+    "Using tsc for high-res timesource": {
+        "PCI: Using configuration type <*>": "No"
+    },
+    "PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>": {
+        "ACPI: Subsystem revision <*>": "No",
+        "PCI: Probing PCI hardware": "No"
+    },
+    "ACPI: Subsystem revision <*>": {
+        "ACPI: Interpreter disabled.": "No"
+    },
+    "Linux version <*> (<*>) (gcc version <*> <*> (<*>)) #<*> <*>": {
+        "Linux Plug and Play Support v0.<*> (c) Adam Belay": "No",
+        "apm: BIOS version <*> Flags <*> (Driver version <*>.16ac)": "No"
+    },
+    "Version <*> Starting": {
+        "Starting pcmcia: succeeded": "No"
+    },
+    "usbcore: registered new driver usbfs": {
+        "usbcore: registered new driver hub": "No"
+    },
+    "ACPI: Interpreter disabled.": {
+        "ACPI: ACPI tables contain no PCI IRQ routing entries": "No."
+    },
+    "ACPI: ACPI tables contain no PCI IRQ routing entries": {
+        "PCI: Invalid ACPI-PCI IRQ routing table": "No"
+    },
+    "PCI: Probing PCI hardware": {
+        "PCI: Probing PCI hardware (bus <*>)": "Yes"
+    },
+    "PCI: Using configuration type <*>": {
+        "PCI: Using IRQ router PIIX/ICH [<*>] at <*>": "No"
+    },
+    "sdpd startup succeeded": {
+        "sdpd v<*> started": "No"
+    },
+    "PCI: Probing PCI hardware <*>": {
+        "pci_hotplug: PCI Hot Plug PCI Core version: <*>": "No"
+    },
+    "Linux Plug and Play Support v0.<*> (c) Adam Belay": {
+        "isapnp: No Plug & Play device found": "No.",
+        "Linux agpgart interface v<*> (c) Dave Jones": "No"
+    },
+    "sdpd v<*> started": {
+        "Real Time Clock Driver v<*>": "No"
+    }
+}

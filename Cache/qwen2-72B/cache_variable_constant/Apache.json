@@ -1,0 +1,5 @@
+{
+    "[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/": {
+        "/var/www/html/": "No"
+    }
+}

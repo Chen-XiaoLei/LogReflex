@@ -1,0 +1,54 @@
+{
+    "SQM: Initializing online with Windows opt-in: False": {
+        "False": "Yes"
+    },
+    "00000007@2016/9/27:20:30:31.462 CSI perf trace:": {
+        "00000007": "Yes"
+    },
+    "Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~7.1.7601.16492, ApplicableState: 112, CurrentState:112": {
+        "7.1.7601.16492": "Yes",
+        "112": "Yes"
+    },
+    "00000009@2016/9/27:20:40:53.744 CSI Transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]\"TI6.0_0:0/\"": {
+        "00000009": "Yes"
+    },
+    "0000000a Performing 1 operations; 1 are not lock/unlock and follow:": {
+        "/unlock": "No"
+    },
+    "0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7": {
+        "FALSE": "Yes"
+    },
+    "00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed": {
+        "00000010": "Yes"
+    },
+    "Loading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\\\?\\GLOBALROOT\\Device\\HarddiskVolumeShadowCopy2\\Windows\\System32\\config\\SOFTWARE'.": {
+        "SOFTWARE": "Yes"
+    },
+    "00000008@2016/9/28:16:00:46.635 PopulateComponentFamiliesKey - Begin": {
+        "00000008": "Yes"
+    },
+    "00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End": {
+        "00000009": "Yes"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT": {
+        "/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT": "No"
+    },
+    "Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat": {
+        "/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat": "Yes"
+    }
+}

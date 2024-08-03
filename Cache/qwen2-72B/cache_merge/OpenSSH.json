@@ -1,0 +1,61 @@
+{
+    "Invalid user webmaster from <*>": {
+        "input_userauth_request: invalid user webmaster [preauth]": "No",
+        "pam_unix(sshd:auth): check pass; user unknown": "No"
+    },
+    "pam_unix(sshd:auth): check pass; user unknown": {
+        "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>": "No",
+        "PAM service(sshd) ignoring max retries; <*> > <*>": "No"
+    },
+    "input_userauth_request: invalid user webmaster [preauth]": {
+        "Failed password for invalid user <*> from <*> port <*> ssh2": "No",
+        "Connection closed by <*> [preauth]": "No"
+    },
+    "Invalid user <*> from <*>": {
+        "Received disconnect from <*>: <*>: Bye Bye [preauth]": "No",
+        "Did not receive identification string from <*>": "No"
+    },
+    "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>": {
+        "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>": "No"
+    },
+    "Failed password for invalid user <*> from <*> port <*> ssh2": {
+        "Failed password for root from <*> port <*>": "No",
+        "Failed none for invalid user <*> from <*> port <*> ssh2": "No"
+    },
+    "Failed password for root from <*> port <*>": {
+        "message repeated <*> times: [ Failed password for root from <*> port <*> ssh2]": "No",
+        "Disconnecting: Too many authentication failures for <*>": "No",
+        "Failed password for uucp from <*> port <*> ssh2": "No",
+        "Failed password for ftp from <*> port <*> ssh2": "No",
+        "Failed password for sshd from <*> port <*> ssh2": "No",
+        "Failed password for git from <*> port <*> ssh2": "No",
+        "Failed password for mysql from <*> port <*> ssh2": "No",
+        "Accepted password for fztu from <*> port <*> ssh2": "No"
+    },
+    "pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>": {
+        "PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>": "No",
+        "pam_unix(sshd:session): session opened for user <*> by (uid=<*>)": "No"
+    },
+    "Received disconnect from <*>: <*>: Bye Bye [preauth]": {
+        "error: Received disconnect from <*>: <*>: com.jcraft.jsch.JSchException: Auth fail [preauth]": "No",
+        "Received disconnect from <*>: <*>: Closed due to user request. [preauth]": "No"
+    },
+    "PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>": {
+        "PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>": "Yes"
+    },
+    "PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> <*>": {
+        "PAM <*> more authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>": "Yes"
+    },
+    "error: Received disconnect from <*>: <*>: com.jcraft.jsch.JSchException: Auth fail [preauth]": {
+        "error: Received disconnect from <*>: <*>: No more user authentication methods available. [preauth]": "No"
+    },
+    "Received disconnect from <*>: <*>: Closed due to user request. [preauth]": {
+        "Received disconnect from <*>: <*>: disconnected by user": "No"
+    },
+    "pam_unix(sshd:session): session opened for user <*> by (uid=<*>)": {
+        "pam_unix(sshd:session): session closed for user <*>": "No"
+    },
+    "Connection closed by <*> [preauth]": {
+        "fatal: Write failed: Connection reset by peer [preauth]": "No"
+    }
+}

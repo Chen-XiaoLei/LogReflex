@@ -1,0 +1,22 @@
+{
+    "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)": {
+        "yarn": "No",
+        "curi": "Yes"
+    },
+    "Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]": {
+        "//sparkExecutorActorSystem@mesos-slave-07:55904": "Yes"
+    },
+    "Successfully started service 'sparkExecutorActorSystem' on port 55904.": {
+        "sparkExecutorActorSystem": "No"
+    },
+    "Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4": {
+        "/opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4": "Yes"
+    },
+    "Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069": {
+        "//CoarseGrainedScheduler@10.10.34.11:48069": "Yes"
+    },
+    "Saved output of task 'attempt_201706092018_0024_m_000003_1012' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003": {
+        "1": "Yes",
+        "0": "Yes"
+    }
+}

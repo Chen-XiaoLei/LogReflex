@@ -1,0 +1,46 @@
+{
+    "Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode": {
+        "/10.10.34.19:33442;": "Yes"
+    },
+    "My election bind port: 0.0.0.0/0.0.0.0:3888": {
+        "0.0.0.0/0.0.0.0:3888": "Yes"
+    },
+    "Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)": {
+        "LEADING": "No",
+        "LOOKING": "No"
+    },
+    "Server environment:user.name=zookeeper": {
+        "zookeeper": "Yes"
+    },
+    "Server environment:os.name=Linux": {
+        "Linux": "No"
+    },
+    "Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)": {
+        "LOOKING": "No"
+    },
+    "Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)": {
+        "LOOKING": "No",
+        "FOLLOWING": "No"
+    },
+    "Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper": {
+        "create": "No",
+        "/a": "No"
+    },
+    "Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)": {
+        "LOOKING": "No",
+        "LEADING": "No"
+    },
+    "Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)": {
+        "FOLLOWING": "No",
+        "LEADING": "No"
+    },
+    "Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084": {
+        "/var/lib/zookeeper/version-2/snapshot.b00000084": "Yes"
+    },
+    "Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)": {
+        "FOLLOWING": "No"
+    },
+    "Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre": {
+        "/usr/lib/jvm/java-7-openjdk-amd64/jre": "Yes"
+    }
+}

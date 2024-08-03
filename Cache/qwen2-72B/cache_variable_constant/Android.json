@@ -1,0 +1,213 @@
+{
+    "ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0": {
+        "true": "Yes",
+        "false": "Yes"
+    },
+    "Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide": {
+        "y": "No"
+    },
+    "mVisiblity.getValue is false": {
+        "false": "Yes"
+    },
+    "updateClipping isOverlap:false, getTopPadding=333.0, Translation=-24.0": {
+        "false": "Yes"
+    },
+    "updateDimmedActivatedHideSensitive overlap:false": {
+        "false": "Yes"
+    },
+    "setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=508 newVal=40000500 diff=40000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)": {
+        "ffffffff": "Yes"
+    },
+    "Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>": {
+        "942": "Yes",
+        "3407": "Yes",
+        "225": "Yes",
+        "398": "Yes",
+        "136": "No",
+        "565": "Yes"
+    },
+    "release:lock=226887582, flg=0x0, tag=\"SCREEN_FROZEN\", name=android\", ws=null, uid=1000, pid=1702": {
+        "null": "No"
+    },
+    "remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching": {
+        "broadcastIntent": "No"
+    },
+    "shouldBlockLocation ret:false": {
+        "false": "Yes"
+    },
+    "interceptKeyTq keycode=4 interactive=true keyguardActive=false policyFlags=2b000002 down true canceled false": {
+        "true": "Yes",
+        "false": "Yes"
+    },
+    "acquire lock=189667585, flags=0x1, tag=\"*launch*\", name=android, ws=WorkSource{10113}, uid=1000, pid=1702": {
+        "android": "No"
+    },
+    "disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >": {
+        "home": "No",
+        "recent": "No",
+        "clock": "No",
+        "navigationbar": "No",
+        "search": "No"
+    },
+    "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true": {
+        "false": "Yes",
+        "true": "Yes"
+    },
+    "flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false": {
+        "true": "Yes",
+        "false": "Yes"
+    },
+    "onTrackingStopped: true": {
+        "true": "Yes"
+    },
+    "Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui": {
+        "/u0a37": "Yes"
+    },
+    "isSimPinSecure mSimDatas is null or empty": {
+        "empty": "No"
+    },
+    "[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true": {
+        "true": "Yes"
+    },
+    "onInterceptTouchEvent MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=317.0, y[0]=419.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261851646, downTime=261851646, deviceId=3, source=0x1002 }, mBlockTouches=false": {
+        "0": "Yes",
+        "false": "No"
+    },
+    "animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true": {
+        "true": "Yes"
+    },
+    "Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21085], maxLayer:[21085], inRotation:[false], rot:[0]": {
+        "Surface": "No",
+        "false": "Yes"
+    },
+    "setLightsOn(true)": {
+        "true": "Yes"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }": {
+        "264,444][920,908": "Yes"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }": {
+        "xxxxxxxxxxx": "Yes",
+        "/.ChooseSubActivity": "No"
+    },
+    "cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =121": {
+        "null": "Yes"
+    },
+    "makeExpandedInvisible: mExpandedVisible=true": {
+        "true": "Yes"
+    },
+    "Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690": {
+        "2060": "Yes",
+        "913": "Yes",
+        "2201": "Yes",
+        "374": "Yes",
+        "400": "Yes",
+        "4869": "Yes",
+        "1393": "Yes",
+        "7690": "Yes"
+    },
+    "acquire lock=237091223, flags=0x1, tag=\"WiredAccessoryManager\", name=android, ws=null, uid=1000, pid=1702": {
+        "WiredAccessoryManager": "No",
+        "android": "No",
+        "null": "Yes"
+    },
+    "acquire lock=219829192, flags=0x1, tag=\"AudioMix\", name=audioserver, ws=null, uid=1041, pid=0": {
+        "AudioMix": "No",
+        "audioserver": "Yes",
+        "null": "No"
+    },
+    "cleanUpApplicationRecordLocked, pid: 12025, restart: false": {
+        "false": "Yes"
+    },
+    "stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false": {
+        "false": "Yes"
+    },
+    "setSpeakerphoneOn on: true": {
+        "true": "Yes"
+    },
+    "setSpeakerphoneOn on:true": {
+        "true": "Yes"
+    },
+    "Destroying surface Surface(name=PopupWindow:9b04807) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555": {
+        "2060": "Yes",
+        "913": "Yes",
+        "1554": "Yes",
+        "2739": "Yes",
+        "2702": "Yes",
+        "2691": "Yes",
+        "2560": "Yes",
+        "2555": "Yes"
+    },
+    "Destroying surface Surface(name=PopupWindow:317e46) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555": {
+        "2060": "Yes",
+        "913": "Yes",
+        "1554": "Yes",
+        "2739": "Yes",
+        "2702": "Yes",
+        "2691": "Yes",
+        "2560": "Yes",
+        "2555": "Yes"
+    },
+    "Destroying surface Surface(name=PopupWindow:d76a91d) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555": {
+        "2060": "Yes",
+        "913": "Yes",
+        "1554": "Yes",
+        "2739": "Yes",
+        "2702": "Yes",
+        "2691": "Yes",
+        "2560": "Yes",
+        "2555": "Yes"
+    },
+    "sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null": {
+        "null": "No"
+    },
+    "Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService": {
+        "/cooperation.qzone.remote.logic.QzoneWebPluginProxyService": "No"
+    },
+    "Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105": {
+        "InputMethod": "No",
+        "2060": "Yes",
+        "913": "Yes",
+        "2201": "Yes",
+        "517": "Yes",
+        "291": "Yes",
+        "233": "Yes",
+        "8670": "Yes",
+        "105": "Yes"
+    },
+    "setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)": {
+        "ffffffff": "Yes"
+    },
+    "enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE)": {
+        "null": "No",
+        "PRIVATE": "No"
+    },
+    "updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false": {
+        "false": "Yes",
+        "true": "Yes"
+    },
+    "Marking notification as seen 0|com.tencent.mobileqq|121|null|10111": {
+        "0": "Yes"
+    },
+    "START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0": {
+        "/.NotePadActivity": "No",
+        "8,820][184,1011": "Yes"
+    },
+    "rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED": {
+        "0": "Yes"
+    },
+    "setSystemUiVisibility vis=80000608 mask=ffffffff oldVal=c0000700 newVal=80000608 diff=40000108 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)": {
+        "ffffffff": "Yes"
+    },
+    "updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23": {
+        "false": "Yes"
+    },
+    "updateChargingLocked: charging=false": {
+        "false": "Yes"
+    },
+    "enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE)": {
+        "null": "No",
+        "msg": "No",
+        "PRIVATE": "No"
+    }
+}

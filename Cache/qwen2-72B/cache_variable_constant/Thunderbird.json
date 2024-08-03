@@ -1,0 +1,186 @@
+{
+    "session closed for user root": {
+        "root": "Yes"
+    },
+    "session opened for user root by (uid=0)": {
+        "root": "Yes"
+    },
+    "jA9J1UvC004306: from=root, size=629060, class=0, nrcpts=1, msgid=<200511091901.jA9J1UvC004306@eadmin1>, relay=#7#@localhost": {
+        "root": "Yes",
+        "200511091901": "Yes",
+        "7": "Yes",
+        "localhost": "No"
+    },
+    "jA9J1UvC004306: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=relay, pri=659060, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]": {
+        "root": "Yes",
+        "0": "Yes",
+        "/0": "No",
+        "relay": "No"
+    },
+    "jA9J1Wd7019391: from=root, size=1594553, class=0, nrcpts=1, msgid=<200511091901.jA9J1Wd7019391@cadmin1>, relay=#7#@localhost": {
+        "root": "Yes",
+        "200511091901": "Yes",
+        "7": "No"
+    },
+    "jA9J1WSU011176: from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091901.jA9J1WSU011176@badmin1>, relay=#7#@localhost": {
+        "root": "Yes",
+        "200511091901": "Yes",
+        "7": "Yes",
+        "localhost": "No"
+    },
+    "jA9J1WFE024258: from=root, size=1597080, class=0, nrcpts=1, msgid=<200511091901.jA9J1WFE024258@dadmin1>, relay=#7#@localhost": {
+        "root": "Yes"
+    },
+    "DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.": {
+        "10.100.4.251": "Yes"
+    },
+    "RRD_update (/var/lib/ganglia/rrds/C Nodes/cn304/pkts_out.rrd): illegal attempt to update using time 1131563037 when last update time is 1131563037 (minimum one second step)": {
+        "minimum": "No"
+    },
+    "RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131563089 when last update time is 1131563089 (minimum one second step)": {
+        "minimum": "No"
+    },
+    "(root) CMD (/projects/tbird/temps/get_temps a)": {
+        "/projects/tbird/temps/get_temps": "No"
+    },
+    "CentOS-4 (Kernel Module GPG key)": {
+        "4": "Yes"
+    },
+    "DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000": {
+        "DELL": "No"
+    },
+    "FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0": {
+        "DELL": "No"
+    },
+    "HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c": {
+        "DELL": "No"
+    },
+    "MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724": {
+        "DELL": "No"
+    },
+    "MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854": {
+        "DELL": "No"
+    },
+    "PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)": {
+        "3 4 5 6 7 10": "Yes",
+        "12": "Yes"
+    },
+    "PCI Interrupt Link [LNKC] (IRQs 3 4 5 6 7 10 11 12) *15": {
+        "12": "Yes"
+    },
+    "PCI Interrupt Link [LNKD] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.": {
+        "0": "Yes"
+    },
+    "PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.": {
+        "0": "Yes"
+    },
+    "PCI Interrupt Link [LNKF] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.": {
+        "0": "Yes"
+    },
+    "PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.": {
+        "0": "Yes"
+    },
+    "PCI Interrupt Link [LNKH] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.": {
+        "0": "Yes"
+    },
+    "PCI Root Bridge [PCI0] (00:00)": {
+        "00:00": "Yes"
+    },
+    "PCI interrupt 0000:00:02.0[A] -> GSI 16 (level, low) -> IRQ 169": {
+        "0000:00:02.0": "Yes",
+        "A": "No"
+    },
+    "PCI interrupt 0000:02:0e.0[A] -> GSI 46 (level, low) -> IRQ 177": {
+        "0000": "Yes"
+    },
+    "Power Button (FF) [PWRF]": {
+        "FF": "Yes"
+    },
+    "RSDP (v000 DELL ) @ 0x00000000000fd650": {
+        "DELL": "No"
+    },
+    "RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664": {
+        "DELL": "No"
+    },
+    "SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc": {
+        "DELL": "No"
+    },
+    "sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $": {
+        "ak": "No",
+        "Exp": "No"
+    },
+    "apic_id 8, version 32, address 0xfec00000, GSI 0-23": {
+        "0-23": "Yes"
+    },
+    "root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr": {
+        "19200": "Yes"
+    },
+    "Registered protocol family 1": {
+        "1": "Yes"
+    },
+    "Using software bounce buffering for IO (SWIOTLB)": {
+        "SWIOTLB": "No"
+    },
+    "Transparent bridge - 0000:00:1e.0": {
+        "0": "Yes"
+    },
+    "MegaRAID Model: LD 0 RAID1 139G Rev: 516A": {
+        "0": "Yes"
+    },
+    "PE/PV Model: 1x2 SCSI BP Rev: 1.0": {
+        "/PV": "No",
+        "1.0": "Yes"
+    },
+    "initializing netlink socket (disabled)": {
+        "disabled": "No"
+    },
+    "not allocating divert_blk for non-ethernet device lo": {
+        "lo": "No"
+    },
+    "v2.0:USB HID core driver": {
+        "0": "No"
+    },
+    "eth0: e1000_probe: Intel(R) PRO/1000 Network Connection": {
+        "/1000": "No"
+    },
+    "eth0: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex": {
+        "1000": "Yes"
+    },
+    "eth1: e1000_probe: Intel(R) PRO/1000 Network Connection": {
+        "/1000": "No"
+    },
+    "Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda": {
+        "00": "Yes",
+        "/dev/sda": "Yes"
+    },
+    "(C) 2000-2002 Netfilter core team": {
+        "2000-2002": "Yes"
+    },
+    "#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)": {
+        "Mon": "Yes",
+        "Sep": "No",
+        "07": "Yes",
+        "2004": "Yes"
+    },
+    "v2.0 (20020519)": {
+        "0": "Yes"
+    },
+    "Creating Topspin /dev entries:": {
+        "/dev": "No"
+    },
+    "registered new driver hiddev": {
+        "hiddev": "Yes"
+    },
+    "RRD_update (/var/lib/ganglia/rrds/C Nodes/cn776/pkts_out.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)": {
+        "minimum": "No"
+    },
+    "Changing permissions on special file /dev/logsurfer": {
+        "/dev/logsurfer": "No"
+    },
+    "Reading included configuration file: /etc/xinetd.d/chargen [file=/etc/xinetd.conf] [line=15]": {
+        "/etc/xinetd.conf": "No"
+    },
+    "xinetd Version 2.3.13 started with libwrap loadavg options compiled in.": {
+        "2.3.13": "No"
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "ciod: failed to read message prefix on control stream (CioStream socket to <*>": {
+        "ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>": "No",
+        "ciod: LOGIN chdir(<*>) failed: No such file or directory": "No.",
+        "ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed": "No.",
+        "NFS Mount failed on <*>, slept <*> seconds, retrying (<*>)": "No"
+    },
+    "instruction cache parity error corrected": {
+        "<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>": "No",
+        "data TLB error interrupt": "No",
+        "instruction address: 0x<*>": "No",
+        "guaranteed instruction cache block touch.<*>": "No",
+        "data cache search parity error detected. attempting to correct": "No"
+    },
+    "ciod: LOGIN chdir(<*>) failed: No such file or directory": {
+        "ciod: Message code <*> is not <*> or <*>": "No",
+        "ciod: Error loading <*> invalid or missing program image, No such file or directory": "No.",
+        "ciod: LOGIN chdir(<*>) failed: Input/output error": "No"
+    },
+    "data TLB error interrupt": {
+        "data storage interrupt": "No",
+        "rts internal error": "No"
+    },
+    "instruction address: 0x<*>": {
+        "data address: <*>": "No",
+        "instruction address space.........<*>": "No"
+    },
+    "data storage interrupt": {
+        "program interrupt: illegal instruction......<*>": "No",
+        "data store interrupt caused by <*>": "No",
+        "debug interrupt enable............<*>": "No"
+    },
+    "program interrupt: illegal instruction......<*>": {
+        "program interrupt: privileged instruction...<*>": "No",
+        "program interrupt: trap instruction.........<*>": "No",
+        "program interrupt: imprecise exception......<*>": "No",
+        "program interrupt: unimplemented operation..<*>": "No",
+        "program interrupt: fp cr update.............<*>": "No",
+        "program interrupt": "No"
+    },
+    "data store interrupt caused by <*>": {
+        "store operation.............................<*>": "No"
+    },
+    "machine check: i-fetch......................<*>": {
+        "machine state register: 0x<*>": "No",
+        "machine check enable..............<*>": "No"
+    },
+    "machine state register: 0x<*>": {
+        "problem state (<*>=sup,<*>=usr).......<*>": "No",
+        "wait state enable.................<*>": "No"
+    },
+    "floating point instr. enabled.....<*>": {
+        "floating pt ex mode <*> enable......<*>": "No",
+        "<*> floating point alignment exceptions": "No",
+        "Lustre mount FAILED : <*> : point <*>": "No"
+    },
+    "data address: <*>": {
+        "data address space................<*>": "No"
+    },
+    "exception syndrome register: 0x<*>": {
+        "core configuration register: <*>": "No"
+    },
+    "program interrupt: fp cr update.............<*>": {
+        "program interrupt: fp cr field .............<*>": "No",
+        "lr:<*> cr:<*> xer:<*> ctr:<*>": "No"
+    },
+    "guaranteed instruction cache block touch.<*>": {
+        "guaranteed data cache block touch........<*>": "No"
+    },
+    "icache prefetch depth....................<*>": {
+        "icache prefetch threshold................<*>": "No"
+    },
+    "debug interrupt enable............<*>": {
+        "critical input interrupt enable...<*>": "No",
+        "debug wait enable.................<*>": "No"
+    },
+    "store operation.............................<*>": {
+        "disable store gathering..................<*>": "No"
+    },
+    "<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>": {
+        "total of <*> ddr error(s) detected and corrected": "No",
+        "<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds": "No"
+    },
+    "ciod: Error loading <*> invalid or missing program image, No such file or directory": {
+        "ciod: Error creating node map from file <*>: No child processes": "No",
+        "ciod: Error loading <*> invalid or missing program image, Exec format error": "No"
+    },
+    "ciod: Message code <*> is not <*> or <*>": {
+        "Node card is not fully functional": "No",
+        "ciod: pollControlDescriptors: Detected the debugger died.": "No.",
+        "ciod: In packet from node <*> (R62-M1-Nf-C:J03-U11), message code <*> is not <*> or <*> (softheader=003b005b <*>)": "No",
+        "ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>": "No"
+    },
+    "ciod: Error creating node map from file <*>: No child processes": {
+        "ciod: Error creating node map from file <*>: Bad file descriptor": "No",
+        "ciod: Missing or invalid fields on line <*> of node map file <*>": "No",
+        "ciod: Error creating node map from file <*>: Block device required": "No",
+        "ciod: Error creating node map from file <*> Permission denied": "No."
+    },
+    "Node card is not fully functional": {
+        "Can not get assembly information for node card": "No",
+        "NodeCard is not fully functional": "Yes"
+    },
+    "total of <*> ddr error(s) detected and corrected": {
+        "<*> torus receiver z+ input pipe error(s) (dcr 0x<*>) detected and corrected": "No",
+        "PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>": "No",
+        "suppressing further interrupts of same type": "No",
+        "<*> L3 EDRAM error(s) (dcr 0x<*>) detected and corrected": "No",
+        "total of <*> ddr error(s) detected and corrected over <*> seconds": "No"
+    },
+    "ciod: Missing or invalid fields on line <*> of node map file <*>": {
+        "ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>": "No"
+    },
+    "rts internal error": {
+        "rts panic! - stopping execution": "No",
+        "rts tree/torus link training failed: wanted: <*> got: <*>": "No"
+    },
+    "ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>": {
+        "ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>": "No",
+        "idoproxydb hit ASSERT condition: ASSERT expression=<*> Source file=<*> Source line=<*> Function=<*>": "No"
+    },
+    "ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>": {
+        "rts: kernel terminated for reason <*>rts: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>": "No"
+    },
+    "Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M Fri Jul <*> PDT 2005": {
+        "New ido chip inserted into the database: <*> ip=<*> v=<*> t=<*>": "No",
+        "Ido chip status changed: <*> ip=<*> v=<*> t=<*> status=M Thu Aug <*> PDT 2005": "Yes"
+    },
+    "<*> <*>is not fully functional": {
+        "Node card status: ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is <*>. Temperature Mask is <*>. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.": "No",
+        "Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid <*> found <*>": "No"
+    },
+    "Node card status: ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is <*>. Temperature Mask is <*>. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.": {
+        "Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is <*>. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.": "No"
+    },
+    "Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid <*> found <*>": {
+        "Node card VPD check: U01 node in processor card slot J14 do not match. VPD ecid <*>, found <*>": "Yes"
+    },
+    "<*> torus receiver z+ input pipe error(s) (dcr 0x<*>) detected and corrected": {
+        "<*> tree receiver <*> in re-synch state event(s) (dcr 0x<*>) detected": "No",
+        "<*> torus receiver x+ input pipe error(s) (dcr 0x<*>) detected and corrected": "No",
+        "<*> torus receiver y+ input pipe error(s) (dcr 0x<*>) detected and corrected": "No"
+    },
+    "rts: kernel terminated for reason <*>rts: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>": {
+        "rts: kernel terminated for reason <*>": "No",
+        "rts: bad message header: expecting type <*> instead of type <*> (softheader=00131db8 81aa0003 <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*>": "No"
+    },
+    "program interrupt": {
+        "ciod: generated <*> core files for program <*>": "No"
+    },
+    "critical input interrupt enable...<*>": {
+        "critical input interrupt (unit=<*> bit=<*>): warning for torus y+ wire": "No"
+    },
+    "ciod: Error loading <*> invalid or missing program image, Exec format error": {
+        "ciod: Error loading <*> invalid or missing program image, Permission denied": "No."
+    },
+    "critical input interrupt (unit=<*> bit=<*>): warning for torus y+ wire": {
+        "critical input interrupt (unit=<*> bit=<*>): warning for torus z- wire": "No"
+    },
+    "rts: bad message header: expecting type <*> instead of type <*> (softheader=00131db8 81aa0003 <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*>": {
+        "Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=0064588e 8aff0003 <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*>": "No"
+    },
+    "Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=0064588e 8aff0003 <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*>": {
+        "Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*> <*> <*> <*> <*> <*>": "No",
+        "Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=00ce22e8 e6200003 <*>) PSR0=00001f01 PSR1=<*> PRXF=<*> PIXF=<*>": "Yes"
+    },
+    "critical input interrupt (unit=<*> bit=<*>): warning for torus z- wire": {
+        "critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type": "No"
+    },
+    "<*> L3 EDRAM error(s) (dcr 0x<*>) detected and corrected": {
+        "<*> torus sender <*> retransmission error(s) (dcr 0x<*>) detected and corrected over <*> seconds": "No",
+        "<*> L3 EDRAM error(s) (dcr 0x<*>) detected and corrected over <*> seconds": "No"
+    },
+    "Lustre mount FAILED : <*> : point <*>": {
+        "Lustre mount FAILED : <*> : block_id : <*>": "No"
+    },
+    "iar <*> dear <*>": {
+        "MACHINE CHECK DCR read timeout (mc=<*> iar 0x<*> lr 0x<*>)": "No"
+    },
+    "ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*>: Link has been severed": {
+        "ciod: Error reading message prefix on CioStream socket to <*>, Connection timed out": "No",
+        "ciod: Error reading message prefix on CioStream socket to <*>, Link has been severed": "Yes"
+    },
+    "ciod: Error reading message prefix on CioStream socket to <*>, Connection timed out": {
+        "ciod: Error reading message prefix on CioStream socket to <*>, Connection reset by peer": "No."
+    },
+    "<*> tree receiver <*> in re-synch state event(s) (dcr 0x<*>) detected": {
+        "<*> tree receiver <*> in re-synch state event(s) (dcr 0x<*>) detected over <*> seconds": "No"
+    },
+    "critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type": {
+        "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.": "No",
+        "critical input interrupt (unit=<*> bit=<*>): warning for tree <*> wire, suppressing further interrupts of same type": "No"
+    },
+    "<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.": {
+        "<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.": "No"
+    },
+    "PrepareForService shutting down NodeCard(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>": {
+        "PrepareForService shutting down Node card(mLctn(<*>), mCardSernum(<*>), mLp(<*>), mIp(<*>), mType(<*>)) as part of Service Action <*>": "No"
+    },
+    "<*> double-hummer alignment exceptions": {
+        "Kernel detected <*> integer alignment exceptions (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*> (<*>) iar 0x<*>, dear 0x<*>a<*>a280<*>": "No"
+    },
+    "suppressing further interrupts of same type": {
+        "size of scratchpad portion of L3.........<*> (<*>M)": "No"
+    },
+    "ciod: Error loading <*> invalid or missing program image, Permission denied": {
+        "ciod: Error loading <*>: program image too big, <*> > <*>": "No"
+    }
+}

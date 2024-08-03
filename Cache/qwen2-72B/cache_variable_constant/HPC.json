@@ -1,0 +1,23 @@
+{
+    "Component State Change: Component \\042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\\042 is in the unavailable state (HWID=1973)": {
+        "042": "No"
+    },
+    "boot (command 1911)": {
+        "boot": "No"
+    },
+    "power/control problem": {
+        "/control": "No"
+    },
+    "Link error on broadcast tree Interconnect-0T00:00:2:1": {
+        "00:2": "Yes"
+    },
+    "inconsistent nodesets node-1 0x000001fc <ok> node-2 0x000001fc <ok> node-7 0x000001fc <ok> node-4 0x000001fc <ok> node-6 0x000001fc <ok> node-5 0x000001fc <ok> node-3 0x000001fc <ok> node-14 0x0003fdfc <ok> node-13 0x0003fdfc <ok> node-12 0x0003fdfc <ok> node-10 0x0003fdfc <ok> node-16 0x0003fdfc <ok> node-15 0x0003fdfc <ok>": {
+        "n": "No",
+        "16": "Yes",
+        "15": "Yes"
+    },
+    "boot (command 2092) Error: HALT asserted\\ cannot continue": {
+        "boot": "No",
+        "HALT": "No"
+    }
+}

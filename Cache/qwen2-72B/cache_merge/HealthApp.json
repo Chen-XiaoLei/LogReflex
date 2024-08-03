@@ -1,0 +1,79 @@
+{
+    "onReceive action: <*>": {
+        "processHandleBroadcastAction action:<*>": "No"
+    },
+    "getBinderPackageName packageName = <*>": {
+        "getAppContext() isAppValid health or wear, packageName = <*>": "No"
+    },
+    "writeDataToDB size <*>": {
+        "insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>": "No",
+        "bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>": "No"
+    },
+    "upLoadOneMinuteDataToEngine time=<*>": {
+        "saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>": "No"
+    },
+    "saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>": {
+        "new date =<*>, type=<*>,old=<*>": "No"
+    },
+    "saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>": {
+        "saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>": "No"
+    },
+    "insertHiHealthData() checkAppType <*> appID = <*>": {
+        "insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = <*>": "No",
+        "insertHiHealthData() end totalTime = <*>": "No"
+    },
+    "new date =<*>, type=<*>,old=<*>": {
+        "uploadStaticsToDB() onResult type = <*> obj=<*>": "No"
+    },
+    "uploadStaticsToDB() onResult type = <*> obj=<*>": {
+        "uploadStaticsToDB failed message=<*>": "No"
+    },
+    "getAppContext() isAppValid health or wear, packageName = <*>": {
+        "checkInsertStatus <*> or <*> is enough": "No"
+    },
+    "checkInsertStatus <*> or <*> is enough": {
+        "stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>": "No",
+        "startInsertSportSync start auto sync,app is <*>": "No",
+        "needAutoSync autoSyncSwitch is <*>": "No"
+    },
+    "stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>": {
+        "checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>": "No",
+        "stepSyncOrNot appSynTimes is <*>": "No",
+        "checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is <*> oldDay is <*>": "No"
+    },
+    "startInsertSportSync start auto sync,app is <*>": {
+        "startInsertSportSync first <*> steps sync,do all sync": "No",
+        "startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>": "No",
+        "initDataPrivacy the dataPrivacy switch is open, start push health data!": "No",
+        "startTimer start autoSync": "No"
+    },
+    "initDataPrivacy the dataPrivacy switch is open, start push health data!": {
+        "initDataPrivacy the dataPrivacy is <*>": "No",
+        "initUserPrivacy the userPrivacy switch is open, start push user data!": "No"
+    },
+    "initUserPrivacy the userPrivacy switch is open, start push user data!": {
+        "initUserPrivacy the userPrivacy is <*>": "No"
+    },
+    "checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>": {
+        "ifCanSync not! no cloud version": "No",
+        "InsertCallBack() onSuccess type = <*> data=<*>": "No"
+    },
+    "bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>": {
+        "saveRealTimeHealthDatasStat() size = <*>,totalTime = <*>": "No"
+    },
+    "insertHiHealthData() end totalTime = <*>": {
+        "InsertEvent success begin:<*> end:<*>": "No"
+    },
+    "setWriteDBLastDataMinute=<*>": {
+        "setWriteDBLastDataMinute success": "No"
+    },
+    "setWriteDBLastDataMinute success": {
+        "flush2DB result success": "No"
+    },
+    "getStepCounterStatus": {
+        "getStepCounterStatus= <*>": "Yes"
+    },
+    "startInsertSportSync first <*> steps sync,do all sync": {
+        "next day:steps<*>mLastReport<*>": "No"
+    }
+}

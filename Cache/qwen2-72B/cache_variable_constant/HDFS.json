@@ -1,0 +1,17 @@
+{
+    "PacketResponder 0 for block blk_-6952295868487656571 terminating": {
+        "0": "Yes"
+    },
+    "BLOCK* NameSystem.allocateBlock: /user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590. blk_-1727475099218615100": {
+        "/user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590.": "Yes"
+    },
+    "10.251.194.213:50010 Served block blk_-7724713468912166542 to /10.251.203.80": {
+        "50010": "Yes"
+    },
+    "10.250.15.198:50010 Starting thread to transfer block blk_4292382298896622412 to 10.250.15.240:50010": {
+        "50010": "Yes"
+    },
+    "BLOCK* ask 10.250.14.38:50010 to replicate blk_-7571492020523929240 to datanode(s) 10.251.122.38:50010": {
+        "50010": "Yes"
+    }
+}

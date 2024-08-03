@@ -1,0 +1,81 @@
+{
+    "Interrupted while waiting for message on queue": {
+        "Connection broken for id <*>, my id = <*>, error =": "No"
+    },
+    "Received connection request /<*>": {
+        "Closed socket connection for client /<*> which had sessionid 0x<*>": "No",
+        "Connection request from old client <*> will be dropped if server is in r-o mode": "No",
+        "Have smaller server identifier, so dropping the connection: (<*>, <*>)": "No",
+        "shutdown of request processor complete": "No"
+    },
+    "Client attempting to renew session <*> at <*>": {
+        "Client attempting to establish new session at /<*>": "No",
+        "Cannot open channel to <*> at election address <*>": "No",
+        "autopurge.snapRetainCount set to <*>": "No"
+    },
+    "Closed socket connection for client /<*> which had sessionid 0x<*>": {
+        "Established session 0x<*> with negotiated timeout <*> for client /<*>": "No",
+        "Accepted socket connection from /<*>": "No",
+        "Closed socket connection for client /<*> (no session established for client)": "No"
+    },
+    "Established session 0x<*> with negotiated timeout <*> for client /<*>": {
+        "Processed session termination for sessionid: <*>": "No",
+        "Expiring session <*> timeout of <*> exceeded": "No",
+        "Revalidating client: <*>": "No"
+    },
+    "Cannot open channel to <*> at election address <*>": {
+        "My election bind port: <*>": "No"
+    },
+    "My election bind port: <*>": {
+        "New election. My id = <*>, proposed zxid=<*>": "No"
+    },
+    "Server environment:user.dir=/": {
+        "Server environment:host.name=<*>": "No",
+        "Server environment:java.vendor=<*>": "No",
+        "Server environment:zookeeper.version=<*>, built on <*> GMT": "No",
+        "Server environment:user.name=<*>": "No",
+        "Server environment:os.name=Linux": "No",
+        "Server environment:java.class.path=<*>": "No",
+        "Server environment:java.home=<*>": "No"
+    },
+    "FOLLOWING": {
+        "FOLLOWING - LEADER ELECTION TOOK - <*>": "No"
+    },
+    "LOOKING": {
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)": "No"
+    },
+    "Expiring session <*> timeout of <*> exceeded": {
+        "Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running": "No"
+    },
+    "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)": {
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)": "No",
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)": "No",
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)": "No",
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)": "No"
+    },
+    "autopurge.snapRetainCount set to <*>": {
+        "tickTime set to <*>": "No",
+        "Snapshotting: <*> to <*>": "No",
+        "autopurge.purgeInterval set to <*>": "No",
+        "maxSessionTimeout set to <*>": "No",
+        "minSessionTimeout set to <*>": "No"
+    },
+    "Unexpected Exception:": {
+        "Unexpected exception causing shutdown while sock still open": "No"
+    },
+    "Processed session termination for sessionid: <*>": {
+        "Got user-level KeeperException when processing sessionid:<*> type:create cxid:<*> zxid:<*> txntype:<*> reqpath:n/a Error Path:<*> Error:KeeperErrorCode = NodeExists for <*>": "No"
+    },
+    "Starting quorum peer": {
+        "Have quorum of supporters; starting up and setting last processed zxid: <*>": "No"
+    },
+    "Connection request from old client <*> will be dropped if server is in r-o mode": {
+        "First is 0x<*>": "No"
+    },
+    "Reading snapshot <*>": {
+        "Getting a snapshot from leader": "No"
+    },
+    "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)": {
+        "Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), FOLLOWING (n.state), <*> (n.sid), <*> (n.peerEPoch), FOLLOWING (my state)": "No"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "Changing view acls to: <*>": {
+        "Changing modify acls to: <*>": "No",
+        "SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, <*>); users with modify permissions: Set(yarn, <*>)": "No",
+        "Connecting to driver: spark:<*>": "No",
+        "Trying to register BlockManager": "No"
+    },
+    "Slf4jLogger started": {
+        "Remoting started; listening on addresses :[akka.tcp:<*>]": "No",
+        "MemoryStore started with capacity <*> GB": "No"
+    },
+    "Remoting started; listening on addresses :[akka.tcp:<*>]": {
+        "Successfully started service 'sparkExecutorActorSystem' on port <*>.": "No",
+        "Server created on <*>": "No"
+    },
+    "Connecting to driver: spark:<*>": {
+        "Successfully registered with driver": "No"
+    },
+    "Starting remoting": {
+        "Starting executor ID <*> on host <*>": "No."
+    },
+    "Trying to register BlockManager": {
+        "Registered BlockManager": "No"
+    },
+    "Got assigned task <*>": {
+        "Running task <*> in stage <*> (TID <*>)": "No."
+    },
+    "Running task <*> in stage <*> (TID <*>)": {
+        "Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)": "No",
+        "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver": "No"
+    },
+    "Started reading broadcast variable <*>": {
+        "Reading broadcast variable <*> took <*> ms": "No"
+    },
+    "Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> KB, free <*> KB)": {
+        "Block broadcast_<*> stored as values in memory (estimated size <*> KB, free <*> KB)": "No",
+        "Block broadcast_<*>_piece<*> stored as bytes in memory (estimated size <*> B, free <*> KB)": "No"
+    },
+    "Block broadcast_<*> stored as values in memory (estimated size <*> KB, free <*> KB)": {
+        "Block <*> stored as values in memory (estimated size <*> B, free <*> KB)": "No"
+    },
+    "<*> is deprecated. Instead, use <*>": {
+        "File Output Committer Algorithm version is <*>": "No"
+    },
+    "Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver": {
+        "Saved output of task '<*>' to hdfs://<*>/pjhe/test/<*>/_temporary/<*>/tas<*>": "No"
+    }
+}

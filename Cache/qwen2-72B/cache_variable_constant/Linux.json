@@ -1,0 +1,80 @@
+{
+    "check pass; user unknown": {
+        "unknown": "No"
+    },
+    "authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net user=root": {
+        "root": "Yes"
+    },
+    "session opened for user cyrus by (uid=0)": {
+        "cyrus": "Yes"
+    },
+    "session closed for user cyrus": {
+        "cyrus": "Yes"
+    },
+    "User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005": {
+        "unknown": "No"
+    },
+    "imps2: Auto-detected intellimouse PS/2": {
+        "/2": "No"
+    },
+    "session opened for user root by LOGIN(uid=0)": {
+        "root": "Yes"
+    },
+    "authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=": {
+        "0": "Yes"
+    },
+    "ANONYMOUS FTP LOGIN FROM 84.102.20.2, (anonymous)": {
+        "anonymous": "No"
+    },
+    "BIOS-e820: 00000000000f0000 - 0000000000100000 (reserved)": {
+        "0000000000100000": "Yes",
+        "reserved": "No"
+    },
+    "BIOS-e820: 0000000007eae000 - 0000000008000000 (reserved)": {
+        "0000000008000000": "Yes",
+        "reserved": "No"
+    },
+    "On node 0 totalpages: 32430": {
+        "0": "Yes"
+    },
+    "DMI 2.3 present.": {
+        "2.3": "Yes."
+    },
+    "Security Scaffold v1.0.0 initialized": {
+        "0.0": "No"
+    },
+    "Initializing random number generator: succeeded": {
+        "succeeded": "No"
+    },
+    "Linux Plug and Play Support v0.97 (c) Adam Belay": {
+        "97": "Yes"
+    },
+    "Starting pcmcia: succeeded": {
+        "pcmcia": "No"
+    },
+    "usbcore: registered new driver usbfs": {
+        "usbfs": "No"
+    },
+    "usbcore: registered new driver hub": {
+        "hub": "No"
+    },
+    "PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0": {
+        "/ICH": "No"
+    },
+    "apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)": {
+        "1": "Yes"
+    },
+    "audit: initializing netlink socket (disabled)": {
+        "disabled": "No"
+    },
+    "Bringing up loopback interface: succeeded": {
+        "succeeded": "No"
+    },
+    "Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)": {
+        "0": "Yes"
+    },
+    "Linux agpgart interface v0.100 (c) Dave Jones": {
+        "agpgart": "No",
+        "c": "No"
+    }
+}

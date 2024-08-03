@@ -1,0 +1,211 @@
+{
+    "printFreezingDisplayLogsopening app wtoken = AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t<*>}}}, allDrawn= false, startingDisplayed = false, startingMoved = false, isRelaunching = false": {
+        "Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>/com.tencent.video.player.activity.PlayerActivity t<*>}}} -- going to hide": "No",
+        "cancelPeek: false": "No"
+    },
+    "visible is <*>": {
+        "mVisiblity.getValue is <*>": "No"
+    },
+    "acquire lock=<*>, flags=0x1, tag=\"View Lock\", name=<*>, ws=null, uid=<*>, pid=<*>": {
+        "release:lock=<*>, flg=0x0, tag=\"View Lock\", name=<*>, ws=null, uid=<*>, pid=<*>": "No",
+        "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=0x<*>, uid=<*>": "No",
+        "acquire lock=<*>, flags=0x1, tag=\"RILJ_ACK_WL\", name=<*>, ws=null, uid=<*>, pid=<*>": "No"
+    },
+    "release:lock=<*>, flg=0x0, tag=\"View Lock\", name=<*>, ws=null, uid=<*>, pid=<*>": {
+        "release:lock=<*>, flg=0x<*>, tag=\"<*>\", name=<*>, ws=WorkSource{<*>}, uid=<*>, pid=<*>": "No"
+    },
+    "setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*> fullscreenStackBounds=Rect(<*>, <*> <*>, <*>), dockedStackBounds=Rect(<*>, <*> <*>, <*>)": {
+        "notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>": "No"
+    },
+    "release:lock=<*>, flg=0x<*>, tag=\"<*>\", name=<*>, ws=WorkSource{<*>}, uid=<*>, pid=<*>": {
+        "Destroying surface Surface(name=<*>) called by <*> <*> <*> <*> <*>:136 <*> <bottom of call stack> <bottom of call stack>": "No",
+        "START u0 {act=<*> flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>": "No",
+        "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>": "No"
+    },
+    "Destroying surface Surface(name=<*>) called by <*> <*> <*> <*> <*>:136 <*> <bottom of call stack> <bottom of call stack>": {
+        "Destroying surface Surface(name=<*>) called by com.android.server.wm.WindowStateAnimator.destroySurface:<*> com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:<*> com.android.server.wm.WindowState.destroyOrSaveSurface:<*> com.android.server.wm.WindowManagerService.tryStartExitingAnimation:<*> com.android.server.wm.WindowManagerService.relayoutWindow:<*> com.android.server.wm.Session.relayout:<*> android.view.IWindowSession$Stub.onTransact:<*> com.android.server.wm.Session.onTransact:<*>": "Yes"
+    },
+    "mVisiblity.getValue is <*>": {
+        "orientation change is complete, call stopFreezingDisplayLocked": "No",
+        "getNeighboringCellInfo calling app is <*>": "No",
+        "isSimPinSecure mSimDatas is null or empty": "No",
+        "getAllCellInfo is blocked by permission manager . callingPackage = <*>": "No"
+    },
+    "Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>/com.tencent.video.player.activity.PlayerActivity t<*>}}} -- going to hide": {
+        "Screen frozen for +<*> due to Window{<*> u0 <*>}": "No"
+    },
+    "startAnimation begin": {
+        "startAnimation end": "No",
+        "The change in focus caused us to need to do a layout begin": "No."
+    },
+    "orientation change is complete, call stopFreezingDisplayLocked": {
+        "Application requested orientation <*>, got rotation <*> which has compatible metrics": "No"
+    },
+    "shouldBlockLocation running ...": {
+        "shouldBlockLocation ret:<*>": "No"
+    },
+    "HBM brightnessIn =<*>": {
+        "HBM brightnessOut =<*>": "No"
+    },
+    "acquire lock=<*>, flags=0x1, tag=\"RILJ_ACK_WL\", name=<*>, ws=null, uid=<*>, pid=<*>": {
+        "acquire lock=<*>, flags=0x<*>, tag=\"<*>\", name=android, ws=WorkSource{<*>}, uid=<*>, pid=<*>": "No",
+        "updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true": "No",
+        "acquire lock=<*>, flags=0x<*>, tag=\"AudioMix\", name=<*>, ws=null, uid=<*>, pid=<*>": "No"
+    },
+    "Releasing suspend blocker \"<*>\".": {
+        "Acquiring suspend blocker \"<*>\".": "No."
+    },
+    "Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*> t<*>}}} -- going to hide": {
+        "Bad activity token: android.os.BinderProxy@<*>": "No",
+        "ActivityRecord info: ActivityInfo{<*> com.tencent.mobileqq.activity.SplashActivity}, euid: <*>": "No"
+    },
+    "Screen frozen for +<*> due to Window{<*> u0 <*>}": {
+        "java.lang.ClassCastException: <*> cannot be cast to <*>": "No",
+        "*** register callback for <*>": "No"
+    },
+    "updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true": {
+        "updateLightsLocked,turn off notificationLight": "No"
+    },
+    "updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>": {
+        "overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>": "No"
+    },
+    "overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>": {
+        "state.clipTopAmount:<*>, i:<*>": "No"
+    },
+    "Animating brightness: target=<*>, rate=<*>": {
+        "flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>": "No"
+    },
+    "Destroying surface Surface(name=<*>) called by <*> <*> <*> <*> <*> <*> <*> <*>": {
+        "onNotificationVisibilityChanged called": "No"
+    },
+    "logNotificationVisibilityChanges runInThread start": {
+        "logNotificationVisibilityChanges runInThread over": "No"
+    },
+    "getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output": {
+        "registerCallback not in UI.": "No",
+        "getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output": "No"
+    },
+    "registerCallback not in UI.": {
+        "android.util.AndroidRuntimeException: Must execute in UI": "No"
+    },
+    "*** register callback for <*>": {
+        "*** unregister callback for null": "No",
+        "Killing <*> (adj <*>): empty for <*>": "No",
+        "Start proc <*>:com.tencent.mobileqq:<*> for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService": "No"
+    },
+    "[PhoneIntfMgr] getDataEnabled: subId=<*> phoneId=<*>": {
+        "[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>": "No"
+    },
+    "onTouchEvent::<*>, x=<*>, y=<*>": {
+        "onInterceptTouchEvent MotionEvent { action=<*>, actionButton=<*>, id[<*>, x[<*>, y[<*>, toolType[<*>, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false": "No"
+    },
+    "userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=0x<*>, uid=<*>": {
+        "animateCollapsePanels:flags=<*>, force=<*>, delayed=<*>, mExpandedVisible=<*>": "No",
+        "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>": "No"
+    },
+    "onNotificationVisibilityChanged called": {
+        "onNotificationClick called": "No",
+        "cancelNotificationLocked called,tell the app,reason = <*>": "No",
+        "onNotificationExpansionChanged called": "No"
+    },
+    "cancelNotification,index:<*>": {
+        "cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>": "No"
+    },
+    "cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>": {
+        "cancelNotificationLocked:<*>": "No",
+        "ActivityManagerService,attachApplication,callingPid = <*>": "No."
+    },
+    "cancelNotificationLocked:<*>": {
+        "cancelNotificationLocked,remove =<*>": "No"
+    },
+    "Sending non-protected broadcast <*> from system <*>:com.android.systemui<*> pkg com.android.systemui": {
+        "Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]": "No",
+        "received broadcast android.intent.action.TIME_TICK": "No"
+    },
+    "*** unregister callback for null": {
+        "removeNotification:<*>|com.tencent.mobileqq|<*>|null|<*>": "No"
+    },
+    "The change in focus caused us to need to do a layout begin": {
+        "The change in focus caused us to need to do a layout end": "No."
+    },
+    "START u0 {act=<*> flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>": {
+        "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=<*> bnds=[<*>] }": "No",
+        "setSpeakerphoneOn on: <*>": "No",
+        "START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[<*>]} from uid <*> on display <*>": "No",
+        "START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>": "No"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=<*> bnds=[<*>] }": {
+        "Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }": "No"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }": {
+        "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=<*> (has extras) }": "No",
+        "Skipping, withExcluded: false, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }": "No",
+        "Unable to start service Intent { act=<*> cmp=<*> } U=<*>: not found": "No"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=<*> (has extras) }": {
+        "Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=<*> (has extras) }": "Yes"
+    },
+    "getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>": {
+        "getRecentTasks: topActivity=ComponentInfo{<*>}": "No"
+    },
+    "animateCollapsePanels:flags=<*>, force=<*>, delayed=<*>, mExpandedVisible=<*>": {
+        "makeExpandedInvisible: mExpandedVisible=<*>": "No"
+    },
+    "cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>": {
+        "Start dump, calling from : pid=<*>, uid=<*>": "No",
+        "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>": "No",
+        "[HSM] stayAwake false uid: <*>, pid: <*>": "No",
+        "enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=[<*>] sound=null tick defaults=<*> flags=<*> color=<*> vis=PRIVATE)": "No"
+    },
+    "cleanUpApplicationRecordLocked, pid: <*>, restart: <*>": {
+        "cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>": "No",
+        "Process <*> (pid <*>) has died": "No",
+        "Scheduling restart of crashed service <*> in <*>ms": "No"
+    },
+    "stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=<*>": {
+        "stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>": "No"
+    },
+    "remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching": {
+        "sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>": "No"
+    },
+    "sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>": {
+        "Received <*> alarm; rescheduling": "No"
+    },
+    "Process <*> (pid <*>) has died": {
+        "new Process app=ProcessRecord{<*> <*>}, name: <*>, euid: <*>": "No"
+    },
+    "enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=[<*>] sound=null tick defaults=<*> flags=<*> color=<*> vis=PRIVATE)": {
+        "enqueueNotificationInternal: n.getKey = <*>": "No",
+        "enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x<*> color=0x<*> category=msg vis=PRIVATE)": "Yes"
+    },
+    "interceptKeyBeforeQueueing: key <*> , result : <*>": {
+        "addNotification key=<*>": "No"
+    },
+    "removeNotification:<*>|com.tencent.mobileqq|<*>|null|<*>": {
+        "Marking notification as seen <*>|com.tencent.mobileqq|<*>|null|<*>": "No"
+    },
+    "getAllCellInfo is blocked by permission manager . callingPackage = <*>": {
+        "getCellLocation is blocked by permission manager uid:<*> pid:<*>": "No"
+    },
+    "getLastAudibleStreamVolume treamType: <*>": {
+        "getStreamVolume treamType: <*>": "No"
+    },
+    "received broadcast android.intent.action.TIME_TICK": {
+        "received broadcast android.intent.action.BATTERY_CHANGED": "No"
+    },
+    "onInterceptTouchEvent MotionEvent { action=<*>, actionButton=<*>, id[<*>, x[<*>, y[<*>, toolType[<*>, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=false": {
+        "onReceive, action:android.intent.action.BATTERY_CHANGED": "No"
+    },
+    "ApStaDisabledState what=<*>": {
+        "DefaultState what=<*>": "No"
+    },
+    "ACTION_BATTERY_CHANGED pluggedType: <*>": {
+        "battery changed pluggedType: <*>": "Yes"
+    },
+    "Marking notification as seen <*>|com.tencent.mobileqq|<*>|null|<*>": {
+        "Marking notification as seen <*>|com.tencent.mm|<*>": "No"
+    },
+    "Skipping, withExcluded: false, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }": {
+        "startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x<*> cmp=<*> (has extras) }": "No"
+    }
+}

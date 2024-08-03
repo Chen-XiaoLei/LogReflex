@@ -1,0 +1,108 @@
+{
+    "Ending TrustedInstaller initialization.": {
+        "Starting the TrustedInstaller main loop.": "No.",
+        "TrustedInstaller service starts successfully.": "No.",
+        "Ending TrustedInstaller finalization.": "No."
+    },
+    "Loaded Servicing Stack v<*> with Core: C:\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_<*>_none_<*>\\cbscore.dll": {
+        "SQM: Initializing online with Windows opt-in: <*>": "No"
+    },
+    "SQM: Initializing online with Windows opt-in: <*>": {
+        "SQM: Cleaning up report files older than <*> days.": "No",
+        "SQM: Requesting upload of all unsent reports.": "No.",
+        "SQM: Failed to start upload with file pattern: <*>, flags: 0x<*> [HRESULT = 0x<*> - <*>": "No"
+    },
+    "SQM: Failed to start upload with file pattern: <*>, flags: 0x<*> [HRESULT = 0x<*> - <*>": {
+        "SQM: Failed to start standard sample upload. [HRESULT = <*> - E_FAIL]": "No",
+        "SQM: Queued <*> file(s) for upload with pattern: <*>, flags: <*>": "No"
+    },
+    "SQM: Requesting upload of all unsent reports.": {
+        "SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*>": "No."
+    },
+    "TrustedInstaller service starts successfully.": {
+        "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.": "No"
+    },
+    "No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.": {
+        "NonStart: Checking to ensure startup processing was not required.": "No",
+        "Offline image is: <*>": "No"
+    },
+    "SQM: Queued <*> file(s) for upload with pattern: <*>, flags: <*>": {
+        "<*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>) (flags = <*>, progress = NULL, phase = <*>, pdwDisposition = @<*>": "No",
+        "Read out cached package applicability for package: Package_for_KB<*>, ApplicableState: <*>, CurrentState:<*>": "No",
+        "<*> CSI Transaction @<*> initialized for deployment engine {<*>-56d8-11d5-882d-0080c847b195} with flags <*> and client id [<*>\"": "No"
+    },
+    "<*> Creating NT transaction (seq <*>), objectname [<*>)\"": {
+        "<*> Created NT transaction (seq <*>) result <*>, handle @<*>": "No"
+    },
+    "NonStart: Checking to ensure startup processing was not required.": {
+        "NonStart: Success, startup processing not required as expected.": "No"
+    },
+    "NonStart: Success, startup processing not required as expected.": {
+        "Startup processing thread terminated normally": "No.",
+        "<*> Performing <*> operations; <*> are not lock/unlock and follow:": "No"
+    },
+    "<*> CSI perf trace:": {
+        "<*> CSI Store <*> (0x<*> initialized": "No",
+        "<*> CSI Transaction @<*> destroyed": "No"
+    },
+    "<*> CSI Store <*> (0x<*> initialized": {
+        "Session: <*> initialized by client WindowsUpdateAgent.": "No",
+        "Scavenge: Begin CSI Store": "No",
+        "<*> Store coherency cookie matches last scavenge cookie, skipping scavenge.": "No"
+    },
+    "SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*>": {
+        "Warning: Unrecognized packageExtended attribute.": "No."
+    },
+    "SQM: Failed to start standard sample upload. [HRESULT = <*> - E_FAIL]": {
+        "Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]": "No.",
+        "Failed to get next element [HRESULT = <*>": "No"
+    },
+    "Failed to get next element [HRESULT = <*>": {
+        "Failed to internally open package. [HRESULT = <*>": "No"
+    },
+    "Read out cached package applicability for package: Package_for_KB<*>, ApplicableState: <*>, CurrentState:<*>": {
+        "Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~<*>, ApplicableState: <*>, CurrentState:<*>": "Yes"
+    },
+    "Failed to internally open package. [HRESULT = <*>": {
+        "Failed to create backup log cab. [HRESULT = <*> - <*>]": "No",
+        "Reboot mark refs incremented to: <*>": "No"
+    },
+    "Scavenge: Starts": {
+        "Scavenge: Completed, disposition: 0X<*>": "No"
+    },
+    "Reboot mark refs incremented to: <*>": {
+        "Reboot mark refs: <*>": "Yes"
+    },
+    "Startup processing thread terminated normally": {
+        "Idle processing thread terminated normally": "No"
+    },
+    "Starting the TrustedInstaller main loop.": {
+        "Ending the TrustedInstaller main loop.": "No.",
+        "Starting TrustedInstaller finalization.": "No."
+    },
+    "Starting TrustedInstaller finalization.": {
+        "Starting TrustedInstaller initialization.": "No."
+    },
+    "Offline image is: <*>": {
+        "Disabling manifest caching, because the image is not writeable.": "No."
+    },
+    "Scavenge: Begin CSI Store": {
+        "<*> PopulateComponentFamiliesKey - Begin": "No"
+    },
+    "<*> PopulateComponentFamiliesKey - Begin": {
+        "<*> PopulateComponentFamiliesKey - End": "No"
+    },
+    "Session: <*> initialized by client WindowsUpdateAgent.": {
+        "Session: <*> initialized by client SPP.": "No."
+    },
+    "Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.": {
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE": "No"
+    },
+    "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE": {
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM": "No",
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY": "No",
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM": "No",
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS": "No",
+        "Unloading offline registry hive: {<*>}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT": "No"
+    }
+}

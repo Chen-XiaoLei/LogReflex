@@ -1,0 +1,270 @@
+{
+    "session closed for user <*>": {
+        "session opened for user <*> by (uid=<*>)": "No",
+        "allocating divert_blk for <*>": "No"
+    },
+    "[ib_sm_sweep.c:<*>]: No topology change": {
+        "[ib_sm_sweep.c:<*>]: No configuration change required": "No"
+    },
+    "synchronized to <*>, stratum <*>": {
+        "unable to qualify my own domain name (<*>) -- using short name": "No",
+        "<*>: to=<*>, ctladdr=<*> (<*>/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]": "No",
+        "DHCPOFFER on <*> to <*> via eth1": "No",
+        "Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report": "No"
+    },
+    "data_thread() got not answer from any [<*>] datasource": {
+        "<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<<*>.jA9J1UvC004306@<*>>, relay=#<*>#@localhost": "No",
+        "DHCPDISCOVER from <*> via eth1": "No"
+    },
+    "<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<<*>.jA9J1UvC004306@<*>>, relay=#<*>#@localhost": {
+        "<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<<*>.jA9J1Wd7019391@cadmin1>, relay=#7#@localhost": "Yes"
+    },
+    "DHCPDISCOVER from <*> via eth1": {
+        "DHCPDISCOVER from <*> via eth1: network A_net: no free leases": "No",
+        "DHCPREQUEST for <*> (<*>) from <*> via eth1": "No",
+        "START: tftp pid=<*> from=<*>": "No"
+    },
+    "DHCPOFFER on <*> to <*> via eth1": {
+        "DHCPACK on <*> to <*> via eth1": "No",
+        "Unknown cmd fd(<*>) cmd(<*>} arg(<*>) on <*>": "No",
+        "Server listening on :: port <*>.": "No",
+        "error: Bind to port <*> on <*> failed: Address already in use.": "No",
+        "Changing permissions on special file /dev/logsurfer": "No"
+    },
+    "DHCPREQUEST for <*> (<*>) from <*> via eth1": {
+        "DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.": "No"
+    },
+    "unable to qualify my own domain name (<*>) -- using short name": {
+        "RRD_update (<*>d): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)": "No"
+    },
+    "RRD_update (<*>d): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)": {
+        "kernel time sync disabled <*>": "No"
+    },
+    "kernel time sync disabled <*>": {
+        "time reset +<*> s": "No",
+        "kernel time sync enabled <*>": "No",
+        "initializing netlink socket (disabled)": "No"
+    },
+    "time reset +<*> s": {
+        "Received SNMP packet(s) from #<*>#": "No",
+        "Now running on #<*>#'s privileges.": "No"
+    },
+    "DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.": {
+        "My unqualified host name (<*>) unknown; sleeping for retry": "No"
+    },
+    "DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000": {
+        "FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0": "No",
+        "HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c": "No",
+        "MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724": "No",
+        "MCFG (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd854": "No",
+        "RSDP (v000 DELL ) @ 0x00000000000fd650": "No",
+        "RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664": "No",
+        "SPCR (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd7cc": "No"
+    },
+    "HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c": {
+        "HPET id: <*> base: <*>": "No"
+    },
+    "INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)": {
+        "INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)": "No",
+        "probe new device <*>: bus <*>:slot <*>:func <*>": "No"
+    },
+    "HPET id: <*> base: <*>": {
+        "IOAPIC (id[<*>] address[<*>] gsi_base[<*>])": "No"
+    },
+    "session opened for user <*> by (uid=<*>)": {
+        "IRQ<*> used by override.": "No"
+    },
+    "kernel time sync enabled <*>": {
+        "Interpreter enabled": "No"
+    },
+    "Interpreter enabled": {
+        "LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)": "No"
+    },
+    "INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)": {
+        "LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])": "No"
+    },
+    "Local disconnected: Connection closed.": {
+        "Local APIC address 0x<*>": "No"
+    },
+    "PCI Interrupt Link [LNKA] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>": {
+        "PCI Interrupt Link [LNKB] (IRQs <*> <*> <*>)": "No",
+        "PCI Interrupt Link [LNKC] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>": "No",
+        "PCI Interrupt Link [LNKD] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled.": "No",
+        "PCI Interrupt Link [LNKE] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled.": "No",
+        "PCI Interrupt Link [LNKF] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled.": "No",
+        "PCI Interrupt Link [LNKG] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled.": "No",
+        "PCI Interrupt Link [LNKH] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) *<*>, disabled.": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PALO.DOBA._PRT]": "No",
+        "eth0: e1000_watchdog: NIC Link is Up <*> Mbps Full Duplex": "No"
+    },
+    "PCI Interrupt Routing Table [\\_SB_.PCI0.PALO.DOBA._PRT]": {
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PALO.DOBB._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PALO._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PBHI.PXB1._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PBHI.PXB2._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PBHI._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PBLO._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.PICH._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0.VPR0._PRT]": "No",
+        "PCI Interrupt Routing Table [\\_SB_.PCI0._PRT]": "No",
+        "PCI Root Bridge [<*>] (<*>)": "No"
+    },
+    "PCI Root Bridge [<*>] (<*>)": {
+        "PCI interrupt <*>[A] -> GSI <*> (level, low) -> IRQ <*>": "No",
+        "PCI Hot Plug PCI Core version: <*>": "No",
+        "Probing PCI hardware (bus <*>)": "No"
+    },
+    "(supports S0 S4 S5)": {
+        "Processor [CPU<*>] (supports C<*>)": "No"
+    },
+    "IOAPIC (id[<*>] address[<*>] gsi_base[<*>])": {
+        "Using IOAPIC for interrupt routing": "No",
+        "apic_id <*>, version <*>, address 0xfec00000, GSI <*>": "No"
+    },
+    "Processor [CPU<*>] (supports C<*>)": {
+        "Intel(R) Xeon(TM) CPU <*>GHz stepping <*>": "No",
+        "Physical Processor ID: <*>": "No",
+        "(C) <*> Netfilter core team": "No"
+    },
+    "L2 cache: <*>K": {
+        "Trace cache: <*> uops, L1 D cache: <*>": "No",
+        "routing cache hash table of <*> buckets, <*>Kbytes": "No",
+        "assuming drive cache: write through": "No"
+    },
+    "apic_id <*>, version <*>, address 0xfec00000, GSI <*>": {
+        "apic_id <*>, version <*>, address 0xfec80000, GSI <*>": "No",
+        "apic_id <*>, version <*>, address 0xfec83000, GSI <*>": "Yes"
+    },
+    "(root) CMD (<*>)": {
+        "root=LABEL=/ initrd=/<*> console=tty0 console=ttyS0,<*> fastboot BOOT_IMAGE=/<*>": "No",
+        "Mounted root (<*> filesystem).": "No."
+    },
+    "Using IOAPIC for interrupt routing": {
+        "Using software bounce buffering for IO (SWIOTLB)": "No",
+        "Using ACPI for IRQ routing": "No",
+        "Using MMCONFIG at <*>": "No"
+    },
+    "Using MMCONFIG at <*>": {
+        "Using configuration type <*>": "No",
+        "Compressed image found at block <*>": "No",
+        "Disabled at runtime.": "No"
+    },
+    "Registering netfilter hooks": {
+        "Unregistering netfilter hooks": "No",
+        "Registering secondary module capability": "No"
+    },
+    "Subsystem revision <*>": {
+        "Direct-Access ANSI SCSI revision: <*>": "No"
+    },
+    "Direct-Access ANSI SCSI revision: <*>": {
+        "Processor ANSI SCSI revision: <*>": "No"
+    },
+    "MegaRAID Model: LD <*> RAID1 139G Rev: <*>": {
+        "PE/PV Model: <*> SCSI BP Rev: <*>": "No"
+    },
+    "allocating divert_blk for <*>": {
+        "not allocating divert_blk for non-ethernet device lo": "No",
+        "Wait for ready failed before probe !": "No",
+        "Assuming <*> system bus speed for PIO modes; override with idebus=xx": "No",
+        "scanning scsi channel <*> [Phy <*>] for non-raid devices": "No",
+        "Cannot open file <*> for writing (No such file or directory)": "No"
+    },
+    "Intel(R) Xeon(TM) CPU <*>GHz stepping <*>": {
+        "eth0: e1000_probe: Intel(R) PRO/1000 Network Connection": "No"
+    },
+    "eth0: e1000_probe: Intel(R) PRO/1000 Network Connection": {
+        "eth1: e1000_probe: Intel(R) PRO/1000 Network Connection": "Yes"
+    },
+    "Compressed image found at block <*>": {
+        "no floppy controllers found": "No"
+    },
+    "not allocating divert_blk for non-ethernet device lo": {
+        "RNG not detected": "No",
+        "PS/<*> mouse device common for all mice": "No"
+    },
+    "CentOS-<*> (Kernel Module GPG key)": {
+        "Installing public key data": "No"
+    },
+    "... autorun DONE.": {
+        "autorun ...": "No"
+    },
+    "v2.0:USB HID core driver": {
+        "md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>": "No"
+    },
+    "#<*>#-rh1 (Release Date: <*>)": {
+        "#<*># (Release Date: <*> Sep <*> <*> <*>EDT <*>)": "No"
+    },
+    "apic_id <*>, version <*>, address <*>, GSI <*>": {
+        "fw version:[<*>] bios version:[<*>]": "No",
+        "syslog-ng version <*> starting": "No"
+    },
+    "rpc.statd startup succeeded": {
+        "portmap startup succeeded": "No",
+        "Starting ts_fixup: succeeded": "No",
+        "syslog-ng startup succeeded": "No",
+        "Mounting NFS filesystems: succeeded": "No.",
+        "gmetad startup succeeded": "No",
+        "succeeded": "No",
+        "xinetd startup succeeded": "No"
+    },
+    "Starting ts_fixup: succeeded": {
+        "Version <*> Starting": "No"
+    },
+    "md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>": {
+        "LSI Logic MegaRAID driver": "No",
+        "registered new driver <*>": "No"
+    },
+    "scanning scsi channel <*> [Phy <*>] for non-raid devices": {
+        "scanning scsi channel <*> [virtual] for logical drives": "No"
+    },
+    "Wait for ready failed before probe !": {
+        "asking for cache data failed": "No",
+        "probe of <*> failed with error <*>": "No"
+    },
+    "Disabled at runtime.": {
+        "i8042 AUX port at <*> irq <*>": "No"
+    },
+    "i8042 AUX port at <*> irq <*>": {
+        "i8042 KBD port at <*> irq <*>": "No"
+    },
+    "Detected <*> MHz processor.": {
+        "Using <*> MHz HPET timer.": "No"
+    },
+    "Using <*> MHz HPET timer.": {
+        "Using HPET based timekeeping.": "No."
+    },
+    "connection lost: '<*>'": {
+        "connection from \"<*>\"": "No"
+    },
+    "connection from \"<*>\"": {
+        "User #<*>#, coming from #<*>#, authenticated.": "No"
+    },
+    "Mounting NFS filesystems: succeeded": {
+        "Mounting other filesystems: failed": "No"
+    },
+    "asking for cache data failed": {
+        "Warning: we failed to resolve data source name <*>": "No"
+    },
+    "Warning: we failed to resolve data source name <*>": {
+        "Warning: we failed to resolve trusted host name <*>": "No"
+    },
+    "Cannot open file <*> for writing (No such file or directory)": {
+        "Reading included configuration file: <*> [file=/etc/xinetd.conf] [line=<*>]": "No"
+    },
+    "removing chargen": {
+        "removing daytime": "No",
+        "removing echo": "No",
+        "removing eklogin": "No",
+        "removing ftp": "No",
+        "removing klogin": "No",
+        "removing kshell": "No",
+        "removing ntalk": "No",
+        "removing printer": "No",
+        "removing rsync": "No",
+        "removing telnet": "No",
+        "removing time": "No"
+    },
+    "Version <*> Starting": {
+        "xinetd Version 2.3.13 started with libwrap loadavg options compiled in.": "No."
+    }
+}

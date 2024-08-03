@@ -1,0 +1,42 @@
+{
+    "isScreenOn true": {
+        "true": "Yes"
+    },
+    "insertHiHealthData() checkAppType 0 appID = 1": {
+        "0": "Yes"
+    },
+    "uploadStaticsToDB() onResult type = 4 obj=true": {
+        "true": "Yes"
+    },
+    "uploadStaticsToDB failed message=true": {
+        "true": "Yes"
+    },
+    "checkInsertStatus stepSum or calorieSum is enough": {
+        "stepSum": "Yes",
+        "calorieSum": "Yes"
+    },
+    "startInsertSportSync first 500 steps sync,do all sync": {
+        "500": "Yes"
+    },
+    "needAutoSync autoSyncSwitch is open": {
+        "open": "Yes"
+    },
+    "initDataPrivacy the dataPrivacy is true": {
+        "true": "Yes"
+    },
+    "initUserPrivacy the userPrivacy is true": {
+        "true": "Yes"
+    },
+    "InsertCallBack() onSuccess type = 0 data=true": {
+        "true": "Yes"
+    },
+    "getStepCounterStatus= true": {
+        "true": "Yes"
+    },
+    "registersensorsuccess: true": {
+        "true": "Yes"
+    },
+    "setGoalNotifiShownRecord 1514044800237 false": {
+        "false": "Yes"
+    }
+}

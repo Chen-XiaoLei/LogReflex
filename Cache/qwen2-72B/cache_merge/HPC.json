@@ -1,0 +1,53 @@
+{
+    "clusterAddMember (command <*>)": {
+        "risBoot (command <*>)": "No",
+        "bootGenvmunix (command <*>)": "No",
+        "boot (command <*>)": "No",
+        "wait (command <*>)": "No",
+        "halt (command <*>)": "No",
+        "Targeting domains:node-<*> and nodes:node-[<*>] child of command <*>": "No"
+    },
+    "Targeting domains:node-<*> and nodes:node-[<*>] child of command <*>": {
+        "Targeting domains:node-<*> and nodes:node-[<*>\\ <*>\\ <*>]": "No"
+    },
+    "Targeting domains:<*> and nodes:<*> <*>": {
+        "Targeting domains:node-D[<*>\\ <*>] and nodes:node-[<*>\\ <*>]": "No"
+    },
+    "Component State Change: Component \\042<*>\\042 is in the unavailable state (HWID=<*>)": {
+        "ClusterFileSystem: There is no server for ServerFileSystem domain <*>": "No"
+    },
+    "ClusterFileSystem: There is no server for ServerFileSystem domain <*>": {
+        "ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>": "No",
+        "ServerFileSystem: ServerFileSystem domain root<*> is full": "No",
+        "ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>": "No"
+    },
+    "Command has completed successfully": {
+        "Command has been aborted": "No."
+    },
+    "Link error": {
+        "Link in reset": "No",
+        "Link ok": "No",
+        "Link error on broadcast tree Interconnect-0T00:<*>": "Yes"
+    },
+    "inconsistent nodesets <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*> <*>": {
+        "inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> node-<*> <*> <*><ok> node-<*> <*> <*><ok>": "No"
+    },
+    "inconsistent nodesets <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> <*> <*> <ok> node-<*> <*> <*><ok> node-<*> <*> <*><ok>": {
+        "inconsistent nodesets <*> <*> <*><ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok>": "No"
+    },
+    "Temperature (<*>C) exceeds warning threshold": {
+        "warning": "No"
+    },
+    "psu failure\\ ambient=<*>": {
+        "ambient=<*>": "No"
+    },
+    "risBoot (command <*>)": {
+        "risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <*>": "No"
+    },
+    "boot (command <*>)": {
+        "boot (command <*>) Error: HALT asserted\\ cannot continue": "No"
+    },
+    "NIFF: node <*> detected a failed network connection on network <*> via interface <*>": {
+        "NIFF: node <*> has detected an available network connection on network <*> via interface <*>": "No"
+    }
+}
