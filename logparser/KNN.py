@@ -37,8 +37,7 @@ def split_all(content):
 
 
 class invert_index_unit:
-    def __init__(self, weight, ids):
-        self.weight = weight
+    def __init__(self, ids):
         self.ids = ids
 
 
@@ -46,7 +45,6 @@ class candidate:
     def __init__(self, log, template):
         self.log = log
         self.template = template
-        self.score = 0
 
 
 class invert_index:
@@ -54,52 +52,27 @@ class invert_index:
         self.table = {}
         self.load_candidates(data_candidate)
         constants = {}
-        variables = {}
         for key in self.candidates.keys():
             line = self.candidates[key]
-            template = line.template
             content = line.log
-            template_new, wildcards, wild_content = match_wildcard_with_content(template, content)
-            constantL = split_all(template_new)
-            wild_contents = ""
-            for c in wild_content:
-                wild_contents += c + " "
-            variableL = split_all(wild_contents)
+            constantL = split_all(content)
 
             for c in constantL:
                 if (c not in constants.keys()):
                     constants[c] = []
                 if (key not in constants[c]):
                     constants[c].append(key)
-            for c in variableL:
-                if (c not in variables.keys()):
-                    variables[c] = []
-                if (key not in variables[c]):
-                    variables[c].append(key)
 
-        key_set = set(constants.keys()).union(set(variables.keys()))
+
+        key_set = set(constants.keys())
         for key in key_set:
             templates = []
-            constant_num = 0
             if (key in constants.keys()):
-                constant_num = len(constants[key])
                 templates += constants[key]
-            variable_num = 0
-            if (key in variables.keys()):
-                variable_num = len(variables[key])
-                templates += variables[key]
-            score = map_func(constant_num, variable_num)
-            unit = invert_index_unit(score, templates)
-            self.table[key] = unit
-        self.get_example_score()
 
-    def get_example_score(self):
-        for key in self.table.keys():
-            unit = self.table[key]
-            score = unit.weight
-            ids = unit.ids
-            for id in ids:
-                self.candidates[id].score += score
+            unit = invert_index_unit(templates)
+            self.table[key] = unit
+
 
     def load_candidates(self, data_candidate):
         self.candidates = {}
@@ -112,13 +85,13 @@ class invert_index:
         result_list = {}
         for id in self.candidates.keys():
             result_list[id] = 0.0
-        self_score=0.0
+        self_score = 0.0
         for log_snippt in logL:
             if (log_snippt in self.table.keys()):
                 unit = self.table[log_snippt]
-                self_score += unit.weight
+                self_score += 1.0
                 for id in unit.ids:
-                    result_list[id] += unit.weight
+                    result_list[id] += 1.0
             else:
                 self_score += 1.0
         for key in result_list.keys():
@@ -131,7 +104,9 @@ class invert_index:
         result = []
         for key in sorted_dict.keys():
             result.append(
-                {"score": result_list[key], "log": self.candidates[key].log, "template": self.candidates[key].template})
+                {"score": result_list[key], "log": self.candidates[key].log,
+                 "template": self.candidates[key].template})
+        result.reverse()
         return result
 
 
